@@ -19,7 +19,7 @@ html,body {
 }
 .container {
     max-width: 100%;
-    background: #a5ccff;
+    /* background: #a5ccff; */
     margin: 0 auto;
 }
 .banner {
